@@ -1,0 +1,3 @@
+Hi,
+the command is git init
+
