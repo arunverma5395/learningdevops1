@@ -1,3 +1,4 @@
 Hi,
 the command is git init
 
+Changed by developer 1 and commited ....
