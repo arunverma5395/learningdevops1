@@ -1,8 +1,13 @@
 Hi,
 the command is git init
 
+
 git add .
 
 git commit -m"first commit"
 
+Changed by developer 1 and commited ....
+
 this is done by developer 2
+
+
